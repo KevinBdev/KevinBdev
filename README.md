@@ -23,4 +23,6 @@ developer with experience working on various projects (from mobile developments 
 * Databases
   * MySQL
  <br/>
-![Meme](https://user-images.githubusercontent.com/57373099/101802083-56b23580-3b0f-11eb-99be-60a24aa72b3e.png | height=50)
+ 
+ <img src="https://user-images.githubusercontent.com/57373099/101802083-56b23580-3b0f-11eb-99be-60a24aa72b3e.png" width="100" height="100">
+![Meme](https://user-images.githubusercontent.com/57373099/101802083-56b23580-3b0f-11eb-99be-60a24aa72b3e.png)
