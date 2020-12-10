@@ -1,6 +1,6 @@
-# Hi :wave: :relaxed:
+# Hi :wave: :relaxed: <br/>
 ### I'm
-developer with experience working on various projects with wide variety of programming languages. 
+developer with experience working on various projects (from mobile developments to web development) with wide variety of programming languages. Working as freelancer on UpWork. 
 
 ## Techonologies & Skills <br/>
 * Software development
