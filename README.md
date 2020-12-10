@@ -24,4 +24,4 @@ developer with experience working on various projects (from mobile developments 
   * MySQL
   
   
-![alt text](https://i.ibb.co/r5HMf1J/Meme.png)
+![alt text](https://i.ibb.co/r5HMf1J/Meme.png?raw=true)
