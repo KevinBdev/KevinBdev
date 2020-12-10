@@ -22,4 +22,4 @@ developer with experience working on various projects (from mobile developments 
   * Swift
 * Databases
   * MySQL
-![alt text](https://ibb.co/ssqQJMr)
+![alt text](https://i.ibb.co/r5HMf1J/Meme.png)
