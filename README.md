@@ -23,5 +23,3 @@ developer with experience working on various projects (from mobile developments 
 * Databases
   * MySQL
   
-  
-<img src="https://i.ibb.co/r5HMf1J/Meme.png" width="100" height="100>
