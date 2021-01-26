@@ -27,3 +27,4 @@ developer with experience working on various projects (from mobile developments 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57373099/101802083-56b23580-3b0f-11eb-99be-60a24aa72b3e.png" width="350" height="300" align="center">
 </p>
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinBdev&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
