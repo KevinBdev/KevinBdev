@@ -23,8 +23,8 @@ developer with experience working on various projects (from mobile developments 
     * Web scraping
     * Automation software
 * Databases
-  * MySQL
   * MongoDB
+  * MySQL, PostgreSQL 
 * Other
   * Git & GitHub
   * Facebook API
