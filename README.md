@@ -7,13 +7,14 @@ developer with experience working on various projects (from mobile development t
   * Frontend
     * HTML
     * CSS
-    * JavaScript
-    * React
+    * <b>JavaScript</b>
+    * <b>React</b>
+    * <b>NextJS</b>
     * VueJS
     * Bootstrap & React-Bootstrap
   * Backend
-    * NodeJS 
-    * ExpressJS
+    * <b>NodeJS</b>
+    * <b>ExpressJS</b>
     * PHP
 * Mobile development
   * React-native
@@ -23,7 +24,7 @@ developer with experience working on various projects (from mobile development t
     * Web scraping
     * Automation software
 * Databases
-  * MongoDB
+  * <b>MongoDB</b>
   * MySQL, PostgreSQL 
 * Other
   * Git & GitHub
