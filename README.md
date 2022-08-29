@@ -11,13 +11,10 @@ CEO and developer with experience working on various projects (from mobile devel
   * Backend
     * <b>NodeJS</b>
     * <b>ExpressJS</b>
+    * <b>Go</b>
+     * gRPC, REST
 * Mobile development
   * React-native
-  * Swift
-* Software development
-  * Python 
-    * Web scraping
-    * Automation software
 * Databases
   * MongoDB
   * MySQL, PostgreSQL 
