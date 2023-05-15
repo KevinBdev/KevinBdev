@@ -1,6 +1,6 @@
 # Hi :wave: :relaxed: <br/>
 ### :raising_hand: I'm Kevin,
-CEO and developer with experience working on various projects (from mobile development to web development) with wide variety of programming languages. Working as developer at IBMiX and as freelancer on UpWork. <br/>
+Developer with experience working on various projects (from mobile development to web development) with wide variety of programming languages. <br/>
 :mortar_board: Master's degree - Faculty of Organization and Informatics
 ## :computer: Techonologies & Skills :wrench: <br/>
 * Web development
