@@ -7,9 +7,9 @@ MomentoSnap - https://momento-snap.com/
 
 ## :computer: Techonologies & Skills :wrench: <br/>
 * Vending machines
- * Industrial hardware
- * IOT
- * MDB protocol (cash/coin) 
+   * Industrial hardware
+   * IOT
+   * MDB protocol (cash/coin) 
 * Web development
   * Frontend
     * <b>TypeScript</b>
