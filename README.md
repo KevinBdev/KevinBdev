@@ -2,7 +2,14 @@
 ### :raising_hand: I'm Kevin,
 Developer with experience working on various projects (from mobile development to web development) with wide variety of programming languages. <br/>
 :mortar_board: Master's degree - Faculty of Organization and Informatics
+
+MomentoSnap - https://momento-snap.com/
+
 ## :computer: Techonologies & Skills :wrench: <br/>
+* Vending machines
+ * Industrial hardware
+ * IOT
+ * MDB protocol (cash/coin) 
 * Web development
   * Frontend
     * <b>TypeScript</b>
